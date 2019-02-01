@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1410dc93-cff8-460f-8a24-0b1da368320d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsor2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/sponsor1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/sponsor2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/sponsor3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/sponsors/sponsor4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/10d.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo22.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/10d.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/10d.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="151" column="62" lean-forward="true" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+            <state relative-caret-position="10646">
+              <caret line="1197" column="80" lean-forward="true" selection-start-line="1197" selection-start-column="80" selection-end-line="1197" selection-end-column="80" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,13 +31,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/logo3.png">
+      <file leaf-file-name="10d.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/10d.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="10d.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/10d.png">
+      <file leaf-file-name="logo3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/logo3.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -52,8 +45,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>10d</find>
       <find>sponsor2.png</find>
+      <find>10d</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,13 +98,6 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="12DND-Static-Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="12DND-Static-Website" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="sponsors" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548948198588</updated>
-      <workItem from="1548948201184" duration="13173000" />
+      <workItem from="1548948201184" duration="16925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13173000" />
+    <option name="totallyTimeSpent" value="16925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
@@ -204,16 +190,19 @@
     <entry file="file://$PROJECT_DIR$/assets/img/10d.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/logo3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/10d.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/logo3.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/10d.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="151" column="62" lean-forward="true" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+        <state relative-caret-position="10646">
+          <caret line="1197" column="80" lean-forward="true" selection-start-line="1197" selection-start-column="80" selection-end-line="1197" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
